@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h3> 💻 Data Analyst Intern at PW Skills </h3>
-
+<div align="left">
 <p> Data Analyst Intern at PW Skills | CSE'24 <BR>
 Enthusiastic data analyst fresher with a strong foundation in statistical analysis and data visualization. Proficient in Python, SQL, and data manipulation techniques. Eager to leverage analytical skills to uncover insights and contribute to informed business decisions. Strong problem-solving abilities and a keen eye for detail. Adept at communicating complex findings in a clear and concise manner. Ready to apply academic knowledge to real-world data challenges and drive meaningful impact.
 <br>
@@ -47,3 +47,4 @@ Most of the projects that I have worked on or working on can be found here. If y
 </a>  
 <hr>
 <br>
+</div>
