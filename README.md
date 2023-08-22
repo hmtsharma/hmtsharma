@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 <div align="center">
 <h3> 💻 Data Analyst Intern at PW Skills </h3>
 
-<h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-</h5>
+##⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️
