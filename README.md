@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hemant Sharma | 💻 Data Analyst Intern at PW Skills </h3>
+<h3> 💻 Data Analyst Intern at PW Skills </h3>
+
+<h5 align="center">
+   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+</h5>
