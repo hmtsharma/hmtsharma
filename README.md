@@ -16,3 +16,6 @@ Here are some ideas to get you started:
   <h1>Hi there, I'm <a href="https://sharmahmt5.wixsite.com/hemantsharma"> Hemant </a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hemant Sharma | 💻 Data Analyst Intern at PW Skills </h3>
