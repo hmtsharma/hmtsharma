@@ -27,7 +27,7 @@ Enthusiastic data analyst fresher with a moderate foundation in statistical anal
 Skills : Python, SQL, Excel, Statics, Machine Learning (Supervised), Power BI, Looker, Matplotlib, Seaborn, Numpy, Pandas.
 <br>
 [Get Resume]https://drive.google.com/file/d/1dMK4rWhAl5K93HEZykjqJtoiBt-8283X/view?usp=sharing
-
+<br>
 **Talking about Personal Stuffs :**
 - 👨‍🏛 I'm Currently Working at **PW Skills (iNeuron)** as a Data Analyst.
 - 💻 Major is EDA.
