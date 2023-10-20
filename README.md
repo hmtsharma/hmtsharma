@@ -22,11 +22,14 @@ Here are some ideas to get you started:
 
 <p> Data Analyst Intern at PW Skills | CSE'24 <BR>
   <div align="left">
-Enthusiastic data analyst fresher with a moderate foundation in statistical analysis and data visualization. Proficient in Python, SQL, and data manipulation techniques. Eager to leverage analytical skills to uncover insights and contribute to informed business decisions. Strong problem-solving abilities and a keen eye for detail. Adept at communicating complex findings in a clear and concise manner. Ready to apply academic knowledge to real-world data challenges and drive meaningful impact.
+As a Data Analyst, I am equipped with a foundation in data visualization, and programming languages like Python
+and SQL. I recently completed internships from iNeuron Pvt. Ltd. / PWskills where I applied these skills for
+getting meaningful insights. My passion lies in extracting meaningful insights from data to drive informed
+business decisions. I am eager to continue learning and adapting to new technologies in the dynamic field of
+data analytics, and I'm excited to contribute my analytical skills to help companies make data-driven decisions.
 <br>
 Skills : Python, SQL, Excel, Statics, Machine Learning (Supervised), Power BI, Looker, Matplotlib, Seaborn, Numpy, Pandas.
 <br>
-[Get Resume]https://drive.google.com/file/d/1dMK4rWhAl5K93HEZykjqJtoiBt-8283X/view?usp=sharing
 
 
 **Talking about Personal Stuffs :**
