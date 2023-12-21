@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<h3> 💻 Data Analyst Intern at PW Skills </h3>
+<h3> 💻 Data Analyst </h3>
 
 <p> Data Analyst Intern at PW Skills | CSE'24 <BR>
   <div align="left">
