@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 As a Data Analyst, I am equipped with a foundation in data visualization, and programming languages like Python and SQL. I recently completed internships from iNeuron Pvt. Ltd. / PWskills where I applied these skills for getting meaningful insights. My passion lies in extracting meaningful insights from data to drive informed business decisions. I am eager to continue learning and adapting to new technologies in the dynamic field of data analytics, and I'm excited to contribute my analytical skills to help companies make data-driven decisions.
 <br>
     <br>
-Skills : Python, SQL, Excel, Statics, Machine Learning (Supervised), Power BI, Looker, Matplotlib, Seaborn, Numpy, Pandas.
+Skills : Data Analysis, Statistical Analysis, Data Cleaing, Data Preprocessing, R, SAS, Python, Pandas, Numpy, Matplotlib, Seaborn, My SQL, MS Excel, Power BI.
 <br>
 
 
 **Talking about Personal Stuffs :**
-- 👨‍🏛 I'm Currently Working at **PW Skills (iNeuron)** as a Data Analyst.
-- 💻 Major is EDA.
+- 👨‍🏛 I'm Ex Data Analyst Intern at **iNeuron.ai**.
+- 💻 Major is Data Visualization, MySQL, MS Excel.
 - 🤔 My hobbies are **Travelling and food🍕**.
 - 💬 If you have any questions, **just ask me**.
 
