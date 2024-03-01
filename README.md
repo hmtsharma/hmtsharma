@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3> 💻 Data Analyst </h3>
 
-<p> Data Analyst Intern at PW Skills | CSE'24 <BR>
+<p>Ex Data Analyst Intern at iNeuron.ai | CSE'24 <BR>
   <div align="left">
 As a Data Analyst, I am equipped with a foundation in data visualization, and programming languages like Python and SQL. I recently completed internships from iNeuron Pvt. Ltd. / PWskills where I applied these skills for getting meaningful insights. My passion lies in extracting meaningful insights from data to drive informed business decisions. I am eager to continue learning and adapting to new technologies in the dynamic field of data analytics, and I'm excited to contribute my analytical skills to help companies make data-driven decisions.
 <br>
