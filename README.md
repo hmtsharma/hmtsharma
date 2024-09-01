@@ -24,10 +24,13 @@ Here are some ideas to get you started:
   <div align="left">
 I am an enthusiastic and detail-oriented data analyst and a passion for turning data into actionable insights. I’m currently pursuing an MBA in Data Science from Amity University, Greater Noida, and I hold a Bachelor's degree in Computer Science from Aligarh College of Engineering and Technology, Aligarh.
 <br>
+    <br>
 My experience spans across data analysis, cleaning, and visualization using tools like Python, Pandas, Numpy, Matplotlib, Seaborn, Power BI, and SQL. During my time as a Jr. BI Developer at Guru IT Services, and as a Data Analyst Intern at iNeuron.ai, I worked on creating impactful dashboards, conducting exploratory data analysis.
 <br>
+    <br>
 In my academic projects, I’ve developed a predictive model for Bengaluru house prices and designed an interactive Power BI dashboard for Zomato data analysis. I thrive on solving complex problems and making data-driven decisions that support strategic goals.
 <br>
+    <br>
 I’m eager to connect with professionals in the data analytics field and explore opportunities where I can contribute my skills and grow further.
 <br>
     <br>
