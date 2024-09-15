@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p>Jr. BI Developer at Guru IT Services | Ex Data Analyst Intern at iNeuron.ai | MBA'26 | CSE'24 <BR>
   <div align="left">
-I am an enthusiastic and detail-oriented data analyst and a passion for turning data into actionable insights. I’m currently pursuing an MBA in Data Science from Amity University, Greater Noida, and I hold a Bachelor's degree in Computer Science from Aligarh College of Engineering and Technology, Aligarh.
+I am an enthusiastic and detail-oriented data analyst and a passion for turning data into actionable insights. I’m currently pursuing an MBA in Data Science from Amity University, Greater Noida, Uttar Pradesh and I hold a Bachelor's degree in Computer Science from Aligarh College of Engineering and Technology, Aligarh, Uttar Pradeshc.
 <br>
     <br>
 My experience spans across data analysis, cleaning, and visualization using tools like Python, Pandas, Numpy, Matplotlib, Seaborn, Power BI, and SQL. During my time as a Jr. BI Developer at Guru IT Services, and as a Data Analyst Intern at iNeuron.ai, I worked on creating impactful dashboards, conducting exploratory data analysis.
@@ -44,7 +44,7 @@ Skills : Data Analysis, Statistical Analysis, Data Cleaing, Data Preprocessing, 
 - 🤔 My hobbies are **Travelling and food🍕**.
 - 💬 If you have any questions, **just ask me**.
 
-Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
+**Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!**
 
 ## 🤝Contact me  
 <a target="_blank" href="https://www.linkedin.com/in/hemant-sharma-745527218/">
