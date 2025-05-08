@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3> 💻 Data Analyst </h3>
 
-<p>Jr. BI Developer at Guru IT Services | Ex Data Analyst Intern at iNeuron.ai | MBA'26 | CSE'24 <BR>
+<p>Ex. Jr. BI Developer at Guru IT Services | Ex. Data Analyst Intern at iNeuron.ai | MBA'26 | CSE'24 <BR>
   <div align="left">
 I’m a passionate and detail-oriented Data Analyst with a strong interest in transforming raw data into meaningful insights that drive smart business decisions. Currently, I’m pursuing an MBA in Data Science from Amity University, Greater Noida, and hold a Bachelor's degree in Computer Science from Aligarh College of Engineering and Technology.
 <br>
