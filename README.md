@@ -22,24 +22,21 @@ Here are some ideas to get you started:
 
 <p>Jr. BI Developer at Guru IT Services | Ex Data Analyst Intern at iNeuron.ai | MBA'26 | CSE'24 <BR>
   <div align="left">
-I am an enthusiastic and detail-oriented data analyst and a passion for turning data into actionable insights. I’m currently pursuing an MBA in Data Science from Amity University, Greater Noida, Uttar Pradesh and I hold a Bachelor's degree in Computer Science from Aligarh College of Engineering and Technology, Aligarh, Uttar Pradeshc.
+I’m a passionate and detail-oriented Data Analyst with a strong interest in transforming raw data into meaningful insights that drive smart business decisions. Currently, I’m pursuing an MBA in Data Science from Amity University, Greater Noida, and hold a Bachelor's degree in Computer Science from Aligarh College of Engineering and Technology.
+<br>
+I have hands-on experience in data analysis, cleaning, and visualization using tools like Python, Pandas, Numpy, Matplotlib, Seaborn, Power BI, and SQL. During my roles as a Jr. BI Developer at Guru IT Services and Data Analyst Intern at iNeuron.ai, I worked on creating interactive dashboards, performing exploratory data analysis, and presenting insights that added value to business processes.
+<br>
+Some of my notable academic projects include developing a predictive model for Bengaluru house prices and designing an interactive Power BI dashboard for Zomato data analysis. I enjoy solving complex problems and believe in making data-driven decisions that align with business goals.
+<br>
+I’m always eager to learn, grow, and connect with professionals in the data analytics and business intelligence community. Open to exciting opportunities where I can contribute my skills and continue to grow as a Data Analyst.
 <br>
     <br>
-My experience spans across data analysis, cleaning, and visualization using tools like Python, Pandas, Numpy, Matplotlib, Seaborn, Power BI, and SQL. During my time as a Jr. BI Developer at Guru IT Services, and as a Data Analyst Intern at iNeuron.ai, I worked on creating impactful dashboards, conducting exploratory data analysis.
-<br>
-    <br>
-In my academic projects, I’ve developed a predictive model for Bengaluru house prices and designed an interactive Power BI dashboard for Zomato data analysis. I thrive on solving complex problems and making data-driven decisions that support strategic goals.
-<br>
-    <br>
-I’m eager to connect with professionals in the data analytics field and explore opportunities where I can contribute my skills and grow further.
-<br>
-    <br>
-Skills : Data Analysis, Statistical Analysis, Data Cleaing, Data Preprocessing, Python, Pandas, Numpy, Matplotlib, Seaborn, My SQL, MS Excel, Data Visualization, Power BI.
+Skills : Data Analysis, Statistical Analysis, Data Cleaing, Data Preprocessing, Python, Pandas, Numpy, Matplotlib, Seaborn, My SQL, Microsoft Excel, Microsoft Word, Microsoft PowerPoint Data Visualization, Power BI, Google Looker Studio, DAX, KPI, PySpark.
 <br>
 
 
 **Talking about Personal Stuffs :**
-- 👨‍🏛 I'm Ex Data Analyst Intern at **iNeuron.ai**.
+- 👨‍🏛 I'm Ex Data Analyst Intern at **Guru IT Services PVT. LTD.**.
 - 💻 Major is Data Visualization, MySQL, MS Excel.
 - 🤔 My hobbies are **Travelling and food🍕**.
 - 💬 If you have any questions, **just ask me**.
